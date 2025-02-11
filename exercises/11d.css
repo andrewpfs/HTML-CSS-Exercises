@@ -1,0 +1,28 @@
+.profile{
+  border-width:2px ;
+  border-color: black;
+  border: 2px;
+  border-style: solid;
+  box-shadow: 0 0 5px black;
+  align-items: center;
+}
+.profile-picture{
+  object-fit: cover;
+  align-items: center;
+}
+.mutuals{
+
+}
+.profile-grid{
+  display:grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.profile-name{
+  font-weight: bold;
+  align-items: center;
+}
+.add-button{
+  color: white;
+  background: blue;
+  align-items:center;
+}
