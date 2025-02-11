@@ -1,0 +1,25 @@
+.profile{
+  width: 200px;
+  border-width:2px ;
+  border-color: black;
+  border: 2px;
+  border-style: solid;
+  padding-left: 10px;
+  box-shadow: 0 0 5px black;
+}
+.profile-picture{
+  width: 200px;
+  height: 150px;
+  object-fit: cover;
+  margin-bottom: 12px;
+}
+.mutuals{
+
+}
+.profile-name{
+  font-weight: bold;
+}
+.add-button{
+  color: white;
+  background: blue;
+}
